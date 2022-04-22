@@ -5,10 +5,12 @@
 // import bootstrap from "bootstrap";
 
 import MainVue from "./components/main.vue";
+import Container from "./components/container.vue";
 </script>
 
 <template>
-  <MainVue />
+  <!-- <MainVue /> -->
+  <Container />
 </template>
 
 <style>

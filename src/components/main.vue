@@ -12,17 +12,23 @@
   <h1 class="display-5">Display 5</h1>
   <h1 class="display-6">Display 6</h1>
 
-  <button type="button" class="btn btn-primary">Primary</button>
-  <button type="button" class="btn btn-secondary">Secondary</button>
-  <button type="button" class="btn btn-success">Success</button>
-  <button type="button" class="btn btn-danger">Danger</button>
-  <button type="button" class="btn btn-warning">Warning</button>
-  <button type="button" class="btn btn-info">Info</button>
-  <button type="button" class="btn btn-light">Light</button>
-  <button type="button" class="btn btn-dark">Dark</button>
   <p class="lead">
     This is a lead paragraph. It stands out from regular paragraphs.
   </p>
+
+  <small>this is small text</small>
+  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis, alias?</p>
+  <p class="lead">
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem, quam.
+  </p>
+
+  <p class="lead text-center">hello seokwon</p>
+  <p class="lead text-end">hello seokwon</p>
+  <p class="lead text-start">hello seokwon</p>
+
+  <p class="text-decoration-underline">this is underlined text</p>
+  <p class="text-decoration-line-through">this is underlined text</p>
+  <p class="fw-bold">this is bold text</p>
 </template>
 
 <script></script>
