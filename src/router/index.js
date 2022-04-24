@@ -2,9 +2,10 @@ import { createRouter, createWebHistory } from "vue-router";
 
 import Post from "../views/Post.vue";
 import HelloWorld from "../components/HelloWorld.vue";
+import Main from "../components/main.vue";
 
 const routes = [
-  { path: "/", component: HelloWorld },
+  { path: "/", component: Main },
   { path: "/about", component: Post },
 ];
 
