@@ -10,7 +10,7 @@
   <button v-on:click="prevent">v-on test</button>
   <div v-bind:id="myId">sdf</div>
   <button :disabled="isButtonDisabled">Button</button>
-
+  asdasd
   <div v-bind="objectOfAttrs">{{ count + 1 }}</div>
 
   <p :if="isButtonDisabled">Now you see me</p>
