@@ -43,7 +43,7 @@
             class="btn btn-sm btn-default"
             @click="clickModify"
           >
-            수정
+            수정ㅁㄴㅇㅁㄴㅇㅁㄴㅇ
           </button>
           <button
             type="button"
