@@ -19,7 +19,7 @@
 
   <form @submit.prevent="onSubmit">
     <input type="text" name="myName" v-model="formValue" />
-    <button type="submit">gogo</button>
+    <button type="submit">gogo</button>sdfsdf
   </form>
   sdfsdfsdf
 
