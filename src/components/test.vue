@@ -21,6 +21,7 @@
     <input type="text" name="myName" v-model="formValue" />
     <button type="submit">gogo</button>
   </form>
+  sdfsdfsdf
 
   <li v-for="(book, idx) in author.books" :key="idx">
     {{ book }} -- {{ idx }}
